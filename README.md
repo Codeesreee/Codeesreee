@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeesreee&label=Profile%20views&color=0e75b6&style=flat" alt="codeesreee" /> </p>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
 
